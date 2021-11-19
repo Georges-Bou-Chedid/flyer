@@ -23,7 +23,7 @@ class IndexController extends Controller
         if ($request->quest5 === 'mami') {
             $c++;
         };
-        if ($request->quest6 === 'tony') {
+        if ($request->quest6 === 'asfsdfsf') {
             $c++;
         };
         return view ('flyer', ['count' => $c]);
