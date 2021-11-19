@@ -20,7 +20,7 @@ class IndexController extends Controller
         if ($request->quest4 === '211') {
             $c++;
         };
-        if ($request->quest5 === 'Mami') {
+        if ($request->quest5 === 'mami') {
             $c++;
         };
         if ($request->quest6 === 'tony') {

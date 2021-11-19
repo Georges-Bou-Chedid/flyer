@@ -67,7 +67,7 @@
 
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                             <div class="flex items-center">
-                              <div class="ml-4 text-lg leading-7 font-semibold"><label class="underline text-gray-900 dark:text-white">What is the number of H Baby?</label></div>
+                              <div class="ml-4 text-lg leading-7 font-semibold"><label class="underline text-gray-900 dark:text-white">What is the number of H Baby? (Example: 78988281)</label></div>
                             </div>
 
                             <div class="ml-12">
