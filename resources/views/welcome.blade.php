@@ -27,7 +27,7 @@
         <div class="relative flex items-top justify-center min-h-screen sm:items-center py-4 sm:pt-0">
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                   <label class="underline" style="font-size: xx-large; color: honeydew">Rah Tendam Eza Ma 3refet No (CapitalLetters,Spaces,Slashes).</label>
+                   <label class="underline" style="font-size: x-large; color: honeydew">Rah Tendam Eza Ma 3refet No (CapitalLetters,Spaces,Slashes).</label>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
