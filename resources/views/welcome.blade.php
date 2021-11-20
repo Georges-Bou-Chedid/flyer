@@ -29,10 +29,10 @@
         <div class="relative flex items-top justify-center min-h-screen sm:items-center py-4 sm:pt-0">
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                   <label class="underline" style="font-size: x-large; color: honeydew">Rah Tendam Eza Ma 3refet !!!!!</label>
+                   <label class="underline" style="font-size: x-large; color: black">Rah Tendam Eza Ma 3refet !!!!!</label>
                 </div>
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                    <label class="underline" style="font-size: x-large; color: honeydew">(No CapitalLetters,Spaces,Slashes.)</label>
+                    <label class="underline" style="font-size: x-large; color: black">(No CapitalLetters,Spaces,Slashes.)</label>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
@@ -45,7 +45,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest1"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest1"></textarea>
                                     </label>
                                 </div>
                             </div>
@@ -59,7 +60,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest2"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest2"></textarea>
                                     </label>
                                 </div>
                             </div>
@@ -73,7 +75,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest3"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest3"></textarea>
                                     </label>
                                 </div>
                             </div>
@@ -87,7 +90,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest4"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest4"></textarea>
                                     </label>
                                 </div>
                             </div>
@@ -101,7 +105,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest5"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest5"></textarea>
                                     </label>
                                 </div>
                             </div>
@@ -115,7 +120,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <label>
-                                        <textarea name="quest6"></textarea>
+                                        <textarea style= " border:1px solid red;
+                                        box-shadow: 0 0 10px #719ECE;" name="quest6"></textarea>
                                     </label>
                                 </div>
                             </div>

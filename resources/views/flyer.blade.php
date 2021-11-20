@@ -26,7 +26,7 @@
     </div>
         <br>
     <div class="relative flex justify-center">
-                    <label style="font-style: oblique; font-family: Apple; font-size: xx-large; color: honeydew;">Its on!!!!!!!! 🔥
+                    <label style="font-style: oblique; font-family: Apple; font-size: xx-large; color: black;">Its on!!!!!!!! 🔥
                         Monday is a day off 🇱🇧
                         So hjezo halkon 🥳
                         For dahrit markaz 💥
